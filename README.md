@@ -22,6 +22,6 @@ Hey there! I'm a passionate and curious software development student ready to di
 <details>
 <summary><h2>Tools:</h2></summary>
   
- [![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode,)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode,)](https://skillicons.dev)-->
 
 </details>
