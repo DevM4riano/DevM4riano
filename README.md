@@ -1,27 +1,67 @@
+<div align="left">
+  <img src="https://profile-counter.glitch.me/JoseMRT2004/count.svg?"  />
+</div>
 
-# 👋 **DevM4riano**  
-### *José M. Taveras Reyes*  
-**Location:** La Romana, Dominican Republic 🌴  
-**Field of Study:** Software Development at the Instituto Tecnológico de las Américas 💻  
+# DevM4riano  
+### José M. Taveras Reyes  
+**Location:** La Romana, Dominican Republic  
+**Field of Study:** Software Development at the Instituto Tecnológico de las Américas (ITLA)  
 
-### About Me:
-Hey there! I'm a passionate and curious software development student ready to dive deep into the tech world! I love tackling challenging projects that really push my coding skills and broaden my understanding of software development. When I'm not immersed in my studies, you'll find me on the basketball court or playing tennis, losing myself in a good book, or exploring fascinating scientific topics. And let's not forget my love for delicious "tostones" and seafood seasoned with the rich flavors of the Dominican Republic! 🍤🍽️
 
-### Skills:
-- **Communication:** Fluent in Spanish, with strong verbal skills to express ideas clearly.
-- **Collaboration:** A true team player who thrives in diverse group settings.
-- **Adaptability:** Always eager to learn and embrace new technologies and concepts.
-- **Time Management:** Skilled in prioritizing tasks to meet deadlines effectively.
-- **Work Ethic:** Committed to excellence, with a strong drive to achieve both academic and personal goals.
+-   [About Me](#about-me)  
+-   [Skills](#skills)  
+-   [Open To](#open-to)  
+-   [Education](#education)  
+-   [Hobbies & Interests](#hobbies--interests)  
+-   [Important Notes](#important-notes)  
 
-### Open to:
-- **Collaboration:** Excited to work on group projects and share knowledge with peers.
-- **Research Internships:** Looking to gain practical experience through internships that challenge me.
-- **Technology Discussions:** Passionate about engaging in lively conversations about the latest tech trends and innovations.
+
+## About Me:
+Hello! I'm a passionate and curious software development student eager to dive deep into the tech world. I enjoy tackling challenging projects that push my coding skills and broaden my understanding of software development. Outside of my studies, I enjoy playing basketball, tennis, reading, and exploring scientific topics. I also have a deep appreciation for Dominican cuisine, especially tostones and seafood.  
+
+
+
+## Skills:
+- **Communication:** Fluent in Spanish, with strong verbal skills to express ideas clearly.  
+- **Collaboration:** A team player who thrives in diverse group settings.  
+- **Adaptability:** Always eager to learn and embrace new technologies and concepts.  
+- **Time Management:** Skilled in prioritizing tasks to meet deadlines effectively.  
+- **Work Ethic:** Committed to excellence, with a strong drive to achieve both academic and personal goals.  
+
+
+
+## Open To:
+- **Collaboration:** Excited to work on group projects and share knowledge with peers.  
+- **Research Internships:** Looking to gain practical experience through internships that challenge me.  
+- **Technology Discussions:** Passionate about engaging in conversations about the latest tech trends and innovations.  
+
+
 
 <details>
-<summary><h2>Tools:</h2></summary>
-  
-<!-- [![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode,)](https://skillicons.dev)-->
+<summary><h2>Click to see my tools</h2></summary>
+
+ [![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode,)](https://skillicons.dev) 
 
 </details>
+
+
+
+## Education:
+- **Institution:** Instituto Tecnológico de las Américas (ITLA)  
+- **Program:** Software Development  
+- **Focus:** Building a strong foundation in programming, software design, and emerging technologies.  
+
+
+
+## Hobbies & Interests:
+- Basketball  
+- Tennis  
+- Reading  
+- Exploring scientific topics  
+- Enjoying Dominican cuisine (especially tostones and seafood)  
+
+ 
+
+
+
+**Thanks for visiting my profile!**  
