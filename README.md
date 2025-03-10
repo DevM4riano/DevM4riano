@@ -36,7 +36,6 @@ Hello! I'm a passionate and curious software development student eager to dive d
 - **Technology Discussions:** Passionate about engaging in conversations about the latest tech trends and innovations.  
 
 
-
 <details>
 <summary><h2>Click to see my tools</h2></summary>
 
@@ -44,24 +43,3 @@ Hello! I'm a passionate and curious software development student eager to dive d
 
 </details>
 
-
-
-## Education:
-- **Institution:** Instituto Tecnológico de las Américas (ITLA)  
-- **Program:** Software Development  
-- **Focus:** Building a strong foundation in programming, software design, and emerging technologies.  
-
-
-
-## Hobbies & Interests:
-- Basketball  
-- Tennis  
-- Reading  
-- Exploring scientific topics  
-- Enjoying Dominican cuisine (especially tostones and seafood)  
-
- 
-
-
-
-**Thanks for visiting my profile!**  
