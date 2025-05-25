@@ -13,7 +13,6 @@
 -   [Open To](#open-to)  
 -   [Education](#education)  
 -   [Hobbies & Interests](#hobbies--interests)  
--   [Important Notes](#important-notes)  
 
 
 ## About Me:
