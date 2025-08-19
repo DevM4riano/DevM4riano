@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://profile-counter.glitch.me/JoseMRT2004/count.svg?"  />
-</div>
-
 # DevM4riano  
 ### José M. Taveras Reyes  
 **Location:** La Romana, Dominican Republic  
